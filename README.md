@@ -1,8 +1,5 @@
-# React + Vite
+## CodeTheDream - 04/11/2024 Group Session Example Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a data table component that we will be using to practice handling asynchronous requests, conditional rendering, and the useReducer hook. We'll be working on this during the group mentorship session to understand why and how to use each concept.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You should clone this repo and start working from the `master` branch, which only has a low-functional HTML template and none of the cool stuff yet. If you want to see the final result, check out the `completed-example` branch.
